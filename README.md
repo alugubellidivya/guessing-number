@@ -19,3 +19,4 @@ Follow these instructions to get a copy of the project up and running on your lo
 ### Prerequisites
 
 - Make sure you have a C++ compiler installed on your machine.
+https://github.com/alugubellidivya/guessing-number/assets/156207800/3d2c84e2-7692-49c8-ae33-2329d473c64e
